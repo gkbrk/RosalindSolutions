@@ -14,4 +14,5 @@ Each directory in this project corresponds to a problem at Rosalind.info. You ca
 * [RNA](http://rosalind.info/problems/rna/) - Transcribing DNA into RNA
 * [REVC](http://rosalind.info/problems/revc/) - Complementing a Strand of DNA
 * [GC](http://rosalind.info/problems/gc/) - Computing GC Content
+* [HAMM](http://rosalind.info/problems/hamm/) - Counting Point Mutations
 * [SUBS](http://rosalind.info/problems/subs/) - Finding a Motif in DNA
